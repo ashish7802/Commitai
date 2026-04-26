@@ -134,22 +134,3 @@ PRs welcome! Star the repo if it helped you ⭐
 
 <div align="center">
 Made with ❤️ by <strong>Ashish Yadav</strong>
-
-⭐ Star karo agar useful laga!
-</div>
-```
-
----
-
-### 📌 Repo Details:
-
-**Name:** `commitai`
-
-**Description:**
-```
-AI-powered Git commit message generator — paste your diff, get 3 perfect commits. Built with Next.js + FastAPI + Gemini.
-```
-
-**Tags:**
-```
-nextjs python fastapi gemini ai mongodb commit-message git developer-tools productivity
